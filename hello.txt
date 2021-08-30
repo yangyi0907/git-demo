@@ -10,4 +10,4 @@ hello yangyi!hello git!
 hello yangyi!hello git!
 hello yangyi!hello git!
 hello yangyi!hello git! master test
-hello yangyi!hello git!
+hello yangyi!hello git! hot-fix test
